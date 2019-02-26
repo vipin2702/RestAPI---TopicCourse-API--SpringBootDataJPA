@@ -1,4 +1,4 @@
-# RestAPI---TopicCourse-API--SpringDataJPA
+# RestAPI---TopicCourse-API--SpringBootDataJPA
 Spring Boot Data JPA
 The project provides CRUD operations for creating topic and course both.
 Each topic can have multiple courses.
